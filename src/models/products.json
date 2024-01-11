@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Producto 1",
+      "description": "Descripción del Producto 1",
+      "price": 19.99,
+      "thumbnail": "img1.jpg",
+      "code": "P001",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "title": "Producto 2",
+      "description": "Descripción del Producto 2",
+      "price": 29.99,
+      "thumbnail": "img2.jpg",
+      "code": "P002",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "title": "Producto 3",
+      "description": "Descripción del Producto 3",
+      "price": 39.99,
+      "thumbnail": "img3.jpg",
+      "code": "P003",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "title": "Producto 4",
+      "description": "Descripción del Producto 4",
+      "price": 49.99,
+      "thumbnail": "img4.jpg",
+      "code": "P004",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "title": "Producto 5",
+      "description": "Descripción del Producto 5",
+      "price": 59.99,
+      "thumbnail": "img5.jpg",
+      "code": "P005",
+      "stock": 25
+    },
+    {
+      "id": 6,
+      "title": "Producto 6",
+      "description": "Descripción del Producto 6",
+      "price": 69.99,
+      "thumbnail": "img6.jpg",
+      "code": "P006",
+      "stock": 10
+    },
+    {
+      "id": 7,
+      "title": "Producto 7",
+      "description": "Descripción del Producto 7",
+      "price": 79.99,
+      "thumbnail": "img7.jpg",
+      "code": "P007",
+      "stock": 40
+    },
+    {
+      "id": 8,
+      "title": "Producto 8",
+      "description": "Descripción del Producto 8",
+      "price": 89.99,
+      "thumbnail": "img8.jpg",
+      "code": "P008",
+      "stock": 5
+    },
+    {
+      "id": 9,
+      "title": "Producto 9",
+      "description": "Descripción del Producto 9",
+      "price": 99.99,
+      "thumbnail": "img9.jpg",
+      "code": "P009",
+      "stock": 35
+    },
+    {
+      "id": 10,
+      "title": "Producto 10",
+      "description": "Descripción del Producto 10",
+      "price": 109.99,
+      "thumbnail": "img10.jpg",
+      "code": "P010",
+      "stock": 12
+    }
+  ]
